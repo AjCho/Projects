@@ -1,0 +1,291 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "root": "Webresources/",
+      "solution": null,
+      "files": [
+        {
+          "uniquename": "new_/js/somefile.js",
+          "file": "new_\\js\\somefile.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "dxcts_SearchCriteria",
+          "file": "/Webresources/dxcts_SearchCriteria.html",
+          "description": "SearchCriteria",
+          "ts": null
+        },
+        {
+          "uniquename": "dxcts_clientPerformances",
+          "file": "/Webresources/dxcts_clientPerformances.js",
+          "description": "Client Performances",
+          "ts": null
+        },
+        {
+          "uniquename": "dxcts_SearchFunctions",
+          "file": "/Webresources/dxcts_SearchFunctions.js",
+          "description": "Search Functions",
+          "ts": null
+        },
+        {
+          "uniquename": "dxcts_img_Boy.png",
+          "file": "/images/Boy.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxcts_img_Girl.png",
+          "file": "/images/Girl.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxcts_ContactOptionSelector.html",
+          "file": "/Webresources/ContactOptionSelector.html",
+          "description": "Contact Option Selector",
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactOptionsFunction.js",
+          "file": "/Webresources/ContactOptionsFunction.js",
+          "description": "Contact Options Function",
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_XrmServiceToolkit.js",
+          "file": "/Webresources/XrmServiceToolkit.js",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_XrmServiceToolkit.min.js",
+          "file": "/Webresources/XrmServiceToolkit.min.js",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_jquery331",
+          "file": "/Webresources/jquery-3.3.1.min.js",
+          "description": "jquery-3.3.1.min.js",
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup18-25-No",
+          "file": "/images/dxc_ContactAgeGroup18-25-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup18-25-Yes",
+          "file": "/images/dxc_ContactAgeGroup18-25-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup26-40-No",
+          "file": "/images/dxc_ContactAgeGroup26-40-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup26-40-Yes",
+          "file": "/images/dxc_ContactAgeGroup26-40-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup41-65-No",
+          "file": "/images/dxc_ContactAgeGroup41-65-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup41-65-Yes",
+          "file": "/images/dxc_ContactAgeGroup41-65-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup65Plus-No",
+          "file": "/images/dxc_ContactAgeGroup65Plus-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactAgeGroup65Plus-Yes",
+          "file": "/images/dxc_ContactAgeGroup65Plus-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactCivilStatusMarried-No",
+          "file": "/images/dxc_ContactCivilStatusMarried-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactCivilStatusMarried-Yes",
+          "file": "/images/dxc_ContactCivilStatusMarried-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactCivilStatusSingle-No",
+          "file": "/images/dxc_ContactCivilStatusSingle-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactCivilStatusSingle-Yes",
+          "file": "/images/dxc_ContactCivilStatusSingle-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactDiscount-No",
+          "file": "/images/dxc_ContactDiscount-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactDiscount-Yes",
+          "file": "/images/dxc_ContactDiscount-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactGenderFemale-No",
+          "file": "/images/dxc_ContactGenderFemale-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactGenderFemale-Yes",
+          "file": "/images/dxc_ContactGenderFemale-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactGenderMale-No",
+          "file": "/images/dxc_ContactGenderMale-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactGenderMale-Yes",
+          "file": "/images/dxc_ContactGenderMale-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactHiker-No",
+          "file": "/images/dxc_ContactHiker-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactHiker-Yes",
+          "file": "/images/dxc_ContactHiker-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactOldMan-No",
+          "file": "/images/dxc_ContactOldMan-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactOldMan-Yes",
+          "file": "/images/dxc_ContactOldMan-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactSurfer-No",
+          "file": "/images/dxc_ContactSurfer-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactSurfer-Yes",
+          "file": "/images/dxc_ContactSurfer-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactUpsell-No",
+          "file": "/images/dxc_ContactUpsell-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactUpsell-Yes",
+          "file": "/images/dxc_ContactUpsell-Yes.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactVIP-No",
+          "file": "/images/dxc_ContactVIP-No.png",
+          "description": null,
+          "ts": null
+        },
+        {
+          "uniquename": "dxc_ContactVIP-Yes",
+          "file": "/images/dxc_ContactVIP-Yes.png",
+          "description": null,
+          "ts": null
+        }
+      ]
+    }
+  ],
+  "plugins": [
+    {
+      "profile": "default,debug",
+      "assemblypath": "bin\\Debug",
+      "classRegex": null
+    }
+  ],
+  "earlyboundtypes": [
+    {
+      "entities": "account,contact,quote",
+      "actions": "dev1_simpleaction",
+      "generateOptionsetEnums": true,
+      "generateGlobalOptionsets": false,
+      "generateStateEnums": true,
+      "filename": "EarlyBoundTypes.cs",
+      "classNamespace": "DXCTrialsPlugin",
+      "serviceContextName": "XrmSvc"
+    }
+  ],
+  "solutions": [
+    {
+      "profile": "default,debug",
+      "solution_uniquename": "spkltestsolution",
+      "packagepath": "package",
+      "solutionpath": "solution_{0}_{1}_{2}_{3}.zip",
+      "packagetype": "unmanaged",
+      "increment_on_import": false,
+      "map": [
+        {
+          "map": "path",
+          "from": "PluginAssemblies\\**\\*.*",
+          "to": "..\\..\\Plugins\\bin\\**"
+        },
+        {
+          "map": "path",
+          "from": "WebResources\\*.*",
+          "to": "..\\..\\Webresources\\Webresources\\**"
+        },
+        {
+          "map": "path",
+          "from": "WebResources\\**\\*.*",
+          "to": "..\\..\\Webresources\\Webresources\\**"
+        }
+      ]
+    }
+  ]
+}

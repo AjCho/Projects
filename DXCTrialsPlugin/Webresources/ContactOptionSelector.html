@@ -1,0 +1,80 @@
+﻿<html>
+<head>
+    <link type="text/javascript" href="../WebResources/dxc_ContactOptionsFunction.js">
+    <link type="text/javascript" href="../WebResources/dxc_XrmServiceToolkit.js">
+    <link type="text/javascript" href="../WebResources/dxc_XrmServiceToolkit.min.js">
+    <meta charset="utf-8">
+    <title></title>
+    <!--<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>-->
+    <script src="../WebResources/dxc_ContactOptionsFunction.js"></script>
+
+</head>
+<body onload="Onloader()" style="overflow-wrap: break-word;">
+    <p style="font-family: undefined;">ADOBE PREFERENCES</p>
+    <!--<p>Select Gender</p>-->
+    <input id="inptBoy" type="image" class="btnRadio" value="boy" src="../WebResources/dxc_gender-male-no" onclick="ChangeGenderImageOnSelect(this.value)">
+    <input id="inptGirl" type="image" class="btnRadio" value="girl" src="../WebResources/dxc_gender-female-no" onclick="ChangeGenderImageOnSelect(this.value)">
+
+    <!--<p>Select Civil Status</p>-->
+    <input id="inptSingle" type="image" class="btnRadio" value="single" src="../WebResources/dxc_ContactCivilStatusSingle-No" onclick="ChangeCivilStatImageOnSelect(this.value)">
+    <input id="inptMarried" type="image" class="btnRadio" value="married" src="../WebResources/dxc_ContactCivilStatusMarried-No" onclick="ChangeCivilStatImageOnSelect(this.value)">
+
+    <!--<p>Select if Surfer</p>-->
+    <input id="inptSurfer" type="image" class="btnRadio" value="surfer" src="../WebResources/dxc_ContactSurfer-Yes" onclick="ChangeSurferOnSelect(this.value)">
+    <input id="inptNotSurfer" type="image" class="btnRadio" value="not surfer" src="../WebResources/dxc_ContactSurfer-No" onclick="ChangeSurferOnSelect(this.value)">
+
+    <!--<p>Select if Hiker</p>-->
+    <input id="inptHiker" type="image" class="btnRadio" value="hiker" src="../WebResources/dxc_ContactHiker-Yes" onclick="ChangeHikerOnSelect(this.value)">
+    <input id="inptNotHiker" type="image" class="btnRadio" value="not hiker" src="../WebResources/dxc_ContactHiker-No" onclick="ChangeHikerOnSelect(this.value)">
+
+    <!--<p>Select if Senior Citizen</p>-->
+    <input id="inptSeniorCitizen" type="image" class="btnRadio" value="senior citizen" src="../WebResources/dxc_ContactOldMan-Yes" onclick="ChangeSeniorCitizenOnSelect(this.value)">
+    <input id="inptNotSeniorCitizen" type="image" class="btnRadio" value="not senior citizen" src="../WebResources/dxc_ContactOldMan-No" onclick="ChangeSeniorCitizenOnSelect(this.value)">
+
+
+    <!--Line Break-->
+    <br>
+
+    <!--<p>Select Age 18-25 </p>-->
+    <input id="inptAge18to25No" type="image" class="btnRadio" value="not Age 18 to 25" src="../WebResources/dxc_ContactAgeGroup18-25-No" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+    <input id="inptAge18to25Yes" type="image" class="btnRadio" value="age 18 to 25" src="../WebResources/dxc_ContactAgeGroup18-25-Yes" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+
+    <!--<p>Select Age 26-40 </p>-->
+    <input id="inptAge26to40No" type="image" class="btnRadio" value="not age 26 to 40" src="../WebResources/dxc_ContactAgeGroup26-40-No" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+    <input id="inptAge26to40Yes" type="image" class="btnRadio" value="age 26 to 40" src="../WebResources/dxc_ContactAgeGroup26-40-Yes" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+
+    <!--<p>Select Age 41-65 </p>-->
+    <input id="inptAge41to65No" type="image" class="btnRadio" value="not age 41 to 65" src="../WebResources/dxc_ContactAgeGroup41-65-No" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+    <input id="inptAge41to65Yes" type="image" class="btnRadio" value="age 41 to 65" src="../WebResources/dxc_ContactAgeGroup41-65-Yes" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+
+    <!--<p>Select Age 65 Plus </p>-->
+    <input id="inptAge65andUpNo" type="image" class="btnRadio" value="not age 65 and up" src="../WebResources/dxc_ContactAgeGroup65Plus-No" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+    <input id="inptAge65andUpYes" type="image" class="btnRadio" value="age 65 and up" src="../WebResources/dxc_ContactAgeGroup65Plus-Yes" onclick="ChangeAgeGroupImageOnSelect(this.value)">
+
+    <!--<p>Select VIP </p>-->
+    <input id="inptVIPNo" type="image" class="btnRadio" value="not vip" src="../WebResources/dxc_ContactVIP-No" onclick="ChangeVIPOnSelect(this.value)">
+    <input id="inptVIPYes" type="image" class="btnRadio" value="vip" src="../WebResources/dxc_ContactVIP-Yes" onclick="ChangeVIPOnSelect(this.value)">
+
+    <!--<p>Select Upsell </p>-->
+    <input id="inptUpsellNo" type="image" class="btnRadio" value="not upsell" src="../WebResources/dxc_ContactUpsell-No" onclick="ChangeUpsellOnSelect(this.value)">
+    <input id="inptUpsellYes" type="image" class="btnRadio" value="upsell" src="../WebResources/dxc_ContactUpsell-Yes" onclick="ChangeUpsellOnSelect(this.value)">
+
+    <!--<p>Select Discount</p>-->
+    <input id="inptDiscounted" type="image" class="btnRadio" value="discounted" src="../WebResources/dxc_ContactDiscount-Yes" onclick="ChangeDiscountedOnSelect(this.value)">
+    <input id="inptNotDiscounted" type="image" class="btnRadio" value="not discounted" src="../WebResources/dxc_ContactDiscount-No" onclick="ChangeDiscountedOnSelect(this.value)">
+
+
+
+
+
+
+
+
+    <style>
+        .btnRadio {
+            height: 50px;
+            width: 50px;
+        }
+    </style>
+</body>
+</html>
